@@ -1,0 +1,7 @@
+c:\users\vitaliy\source\repos\Se1\Se1\bin\Debug\Se1.exe.config
+c:\users\vitaliy\source\repos\Se1\Se1\bin\Debug\Se1.exe
+c:\users\vitaliy\source\repos\Se1\Se1\bin\Debug\Se1.pdb
+c:\users\vitaliy\source\repos\Se1\Se1\obj\Debug\Se1.csprojResolveAssemblyReference.cache
+c:\users\vitaliy\source\repos\Se1\Se1\obj\Debug\Se1.csproj.CoreCompileInputs.cache
+c:\users\vitaliy\source\repos\Se1\Se1\obj\Debug\Se1.exe
+c:\users\vitaliy\source\repos\Se1\Se1\obj\Debug\Se1.pdb
